@@ -16,7 +16,7 @@ header {
     font-size: 24px;
 }
 .dsmovie-contact-container{
-    display:flex;
+    display: flex;
     align-items: center;
 }
 .dsmovie-contact-link{
